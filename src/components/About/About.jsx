@@ -27,19 +27,21 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>50+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>40+ Completed</small>
+              <small>25+ Completed</small>
             </article>
-
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit, laborum consequuntur! Nesciunt adipisci quisquam repudiandae dolorem aliquam doloribus modi, exercitationem enim, incidunt, amet expedita recusandae eius! Exercitationem nisi sequi aperiam.</p>
-
-            <a href="#contact" className="btn btn-primary">Let's Talk</a>
           </div>
+          <p>
+          I'm Front-End developer specializing in building exceptional digital experiences.  I'm passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way tp large enterprise corporations. 
+          </p>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kuanysh.com/static/css/main.cc0c1762.css",
+    "main.js": "/kuanysh.com/static/js/main.5d0ade35.js",
+    "static/media/kapu.JPG": "/kuanysh.com/static/media/kapu.55c3332d3670f8f37747.JPG",
+    "static/media/cv.pdf": "/kuanysh.com/static/media/cv.346a22a1375d14c6a32e.pdf",
+    "static/media/redsq.JPG": "/kuanysh.com/static/media/redsq.3359b8a03bc3aaccafe9.JPG",
+    "static/media/realtyproject.jpg": "/kuanysh.com/static/media/realtyproject.470c1a9a01f9b0075024.jpg",
+    "static/media/budget-project.jpg": "/kuanysh.com/static/media/budget-project.52de7d783e82c7b2dffb.jpg",
+    "static/media/crmsystem.png": "/kuanysh.com/static/media/crmsystem.69fbe5d382cc7298f148.png",
+    "index.html": "/kuanysh.com/index.html",
+    "main.cc0c1762.css.map": "/kuanysh.com/static/css/main.cc0c1762.css.map",
+    "main.5d0ade35.js.map": "/kuanysh.com/static/js/main.5d0ade35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc0c1762.css",
+    "static/js/main.5d0ade35.js"
+  ]
+}
